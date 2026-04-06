@@ -1,0 +1,14 @@
+# Quartus & Questa Generated Folders
+db/
+incremental_db/
+output_files/
+simulation/
+work/
+
+# Text Editor Backup Files
+*.bak
+
+# Simulation Waveforms & Logs
+vsim.wlf
+*_nativelink_simulation.rpt
+c5_pin_model_dump
